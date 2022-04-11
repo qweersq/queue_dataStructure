@@ -95,7 +95,7 @@ int main()
     {
         printf("\n===========================================");
         printf("\n  Q U E U E   I M P L E M E N T A T I O N");
-        printf("\n           \"Take OFF Pesawat\"");
+        printf("\n       \"Take OFF Pesawat by hadad\"");
         printf("\n===========================================");
         printf("\n 1. Tambah Pesawat");
         printf("\n 2. Pesawat Take OFF (Hapus)");
